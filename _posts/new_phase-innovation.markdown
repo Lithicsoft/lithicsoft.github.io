@@ -61,6 +61,7 @@ We hope to achieve great results in the future with these proposals.
 <span style="font-size: 11pt;">Andrej Bartulin
 ([@Andrej123456789](https://github.com/Andrej123456789))
 </span>
+
 <span style="font-size: 11pt;">Janick Voss
 ([@Glowman554](https://github.com/Glowman554))
 </span>
