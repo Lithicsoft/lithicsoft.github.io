@@ -2,7 +2,7 @@
 title: Lithicsoft Inc.
 email: lithicsoft@gmail.com
 description: >
-    An organization maintaining free software
+    An organization maintaining free software.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://www.lithicsoft.tk/"
 github_username: lithicsoft-inc
