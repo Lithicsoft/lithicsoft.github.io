@@ -1,11 +1,11 @@
 # Site settings.
-title: Lithicsoft Inc.
+title: Lithicsoft Organization.
 email: lithicsoft@gmail.com
 description: >
     An organization maintaining free software.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://www.lithicsoft.tk"
-github_username: lithicsoft-inc
+url: "https://lithicsoft.github.io/"
+github_username: lithicsoft
 
 # Build settings.
 markdown: kramdown
