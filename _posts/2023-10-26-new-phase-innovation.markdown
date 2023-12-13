@@ -3,8 +3,8 @@ layout: post
 title:  New phase - Innovation
 excerpt: Lithicsoft is undergoing a complete overhaul and innovation in its new phase. We have evaluated our progress since 2019 and set new objectives for the future.
 ---
-<span style="font-size: 11pt;">Post by Anthony Erosion
-([@ZEanth](https://github.com/EndermanPC))
+<span style="font-size: 11pt;">Post by Bùi Nguyễn Tấn Sang
+([@EndermanPC](https://github.com/EndermanPC))
 </span>
 
 ## Achievements.
