@@ -1,4 +1,4 @@
-# Neutron Project
+Neutron Project
 
 ## Welcome to the Neutron project!
 
