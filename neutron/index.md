@@ -1,6 +1,6 @@
 Neutron Project
 
-# Welcome to the Neutron project!
+## Welcome to the Neutron project!
 
 Neutron is a project dedicated to crafting a straightforward and user-friendly search engine. Our primary goal is to provide a platform where users can effortlessly add and contribute websites to expand our search database.
 
