@@ -4,6 +4,14 @@ Welcome to the [Neutron](https://lithicsoft.github.io/neutron) project!
 
 Neutron is a project dedicated to crafting a straightforward and user-friendly search engine. Our primary goal is to provide a platform where users can effortlessly add and contribute websites to expand our search database.
 
+## Table of Contents
+- Highlights
+- Features Overview
+- How to Contribute
+- Getting Started
+- Feedback and Support
+- Credits
+
 ## Highlights
 
 - **Simplicity**: Neutron prioritizes ease of use, ensuring that searching the web is intuitive and accessible for all users.
@@ -12,16 +20,16 @@ Neutron is a project dedicated to crafting a straightforward and user-friendly s
 
 ## Features Overview
 
-#### ADPN (Admin Panel)
+### ADPN (Admin Panel)
 A versatile Control Panel facilitating administrative commands execution and database management.
 
-#### FTS (Feature)
-Employs Sqlite3's Full-Text Search 5, enhancing search capabilities for improved results.
+### FTS (Feature)
+Employs MySQL Full-Text Search, enhancing search capabilities for improved results.
 
-#### Account Manager (Server)
-Enables basic account management functionalities such as password changes, username alterations, account searches, and creation of accounts requiring confirmation codes via email. It upholds reliability features.
+### Account Manager (Server)
+Enables basic account management functionalities such as password changes and creation of accounts requiring confirmation codes via email. It upholds reliability features.
 
-#### Manager (Server)
+### Manager (Server)
 Empowers users to interact with the database based on their reliability levels:
 - **0**: All edits undergo administrator review.
 - **1**: Allows direct addition of websites to the database documents without administrative intervention.
@@ -29,16 +37,15 @@ Empowers users to interact with the database based on their reliability levels:
 - **3**: Enables website deletion.
 - **4**: Administrator privileges.
 
-#### Search Index (Server)
+### Search Index (Server)
 Facilitates searching with two distinct algorithms: full-text search and exact search.
 
-#### Interface (Server)
+### Interface (Server)
 Offers a user-friendly interface with the following features:
 - Ability to quote information from Wikipedia.
 - Support for search filters including:
   - Search type (Text, Image, Video).
   - Language of search results (supports up to 55 languages).
-  - Time range (websites from a previous time point to present).
 
 ## How to Contribute
 
