@@ -18,7 +18,7 @@
       - **Explanation:** Users' personal data is neither sold, shared, nor exchanged with any external parties, except as detailed within this policy or as mandated by law.
 
 5. **Minimum Age Requirement**
-   Users must be at least 13 years old to engage with the search tool.
+   Users must be at least 13 years old to create a search engine account.
       - **Explanation:** This stipulation ensures compliance with legal age requirements and enables users to comprehend and consent to our terms and conditions.
 
 6. **Prohibited Behavior**
