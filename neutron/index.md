@@ -21,7 +21,7 @@
 
 ## 🧐 About Neutron <a name="about"></a>
 
-Neutron is a project dedicated to crafting a straightforward and user-friendly search engine. Our primary goal is to provide a platform where users can effortlessly add and contribute websites to expand our search database.
+[Neutron](https://github.com/Lithicsoft/Neutron) is a project dedicated to crafting a straightforward and user-friendly search engine. Our primary goal is to provide a platform where users can effortlessly add and contribute websites to expand our search database.
 
 ## 🏁 Highlights <a name="highlights"></a>
 
