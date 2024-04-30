@@ -30,4 +30,4 @@ OpenLAV represents a modest yet earnest research project within our small commun
 Los, or Lithicsoft office software, is a discontinued open-source project that our small community initiated. Developed within our means, Los aimed to provide essential office applications, including Word Processing, Spreadsheet, and Presentation tools. While the project is no longer actively maintained, it stands as a testament to our community's passion for open-source development, even within the constraints of our limited resources.
 
 ---
-Thank you for your interest in the Lithicsoft Organization. Should you have any inquiries, please don't hesitate to reach out to us at lithicsoft@gmail.com. We look forward to hearing from you.
+Thank you for your interest in the Lithicsoft Organization. Should you have any inquiries, please don't hesitate to reach out to us at lithicsoft@gmail.com or [Lithicsoft's Discord](https://discord.gg/dNQunYaXrX). We look forward to hearing from you.
