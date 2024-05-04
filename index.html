@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Trang đã chuyển</title>
+    <meta http-equiv="refresh" content="3;url=https://lithicsoft.rf.gd">
+    <style>
+        body {
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            height: 100vh;
+            margin: 0;
+            background-color: #f8f8f8;
+            font-family: Arial, sans-serif;
+        }
+        .container {
+            text-align: center;
+        }
+    </style>
+    <script>
+        var timeleft = 3;
+        var countdownTimer = setInterval(function(){
+            document.getElementById("countdown").innerHTML = "The website will redirect after " + timeleft + " seconds.";
+            timeleft -= 1;
+            if(timeleft <= 0){
+                clearInterval(countdownTimer);
+                document.getElementById("countdown").innerHTML = "Changing direction..."
+            }
+        }, 1000);
+    </script>
+</head>
+<body>
+    <div class="container">
+        <h1>The website has moved to another place!</h1>
+        <p id="countdown"></p>
+    </div>
+</body>
+</html>
